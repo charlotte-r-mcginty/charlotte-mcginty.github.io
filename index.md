@@ -6,7 +6,7 @@ title: Home
 
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
   <img
-    src="/assets/images/profile.jpg"
+    src="assets/images/profile.jpg"
     alt="Charlotte's profile photo"
     style="width: 220px; height: auto; border-radius: 12px;"
   />
