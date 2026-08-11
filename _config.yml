@@ -1,0 +1,21 @@
+title: Charlotte McGinty
+description: Personal blog and portfolio
+author: Charlotte McGinty
+email: charlotte@example.com
+url: https://charlotte-mcginty.github.io
+
+# Jekyll settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima theme settings
+minima:
+  skin: auto
+  social_links:
+    - { platform: github, user_url: "https://github.com/charlotte-r-mcginty" }
+
+# Build settings
+markdown: kramdown
+excerpt_separator: <!--more-->
