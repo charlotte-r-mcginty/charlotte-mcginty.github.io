@@ -654,7 +654,12 @@ table td {
   padding: 12px 0;
 }
 
+.site-footer > .wrapper > *:not(.footer-right) {
+  display: none !important;
+}
+
 .site-footer .footer-right {
+  display: block;
   font-size: 0.75rem;
   text-align: right;
   color: #828282;

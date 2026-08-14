@@ -50,10 +50,12 @@ title: Home
       <a href="https://uk.linkedin.com/in/charlotte-mcginty-a10236185" style="display:inline-block; padding: 8px 16px; margin: 6px 6px 0 0; background:#333; color:#fff; border-radius:20px; text-decoration:none; font-size:0.9rem;">💼 LinkedIn</a>
     </div>
 
-    <p>I am the Geospatial Analyst in the <a href="https://biodiversity-futures-lab.github.io/" target="_blank">Biodiversity Futures Lab</a> at the Natural History Museum in London. I develop and apply geospatial workflows to support global biodiversity research, working with large-scale spatial, land use, and land cover datasets to create reproducible data products that help us better understand biodiversity change in a human-dominated world.</p>
+    <p>I am the Geospatial Analyst in the <a href="https://biodiversity-futures-lab.github.io/" target="_blank">Biodiversity Futures Lab</a> at the Natural History Museum in London. I develop and apply geospatial workflows to support the devlopment of the <a href="https://www.nhm.ac.uk/our-science/services/data/biodiversity-intactness-index.html" target="_blank">Biodiversity Intactness Index</a>. 
+    
+    My work focuses on the analysis of large-scale spatial datasets and their integration into reproducible workflows that generate data products to improve our understanding of biodiversity change in a human-dominated world.</p>
 
-    <p>Before joining the Museum, I worked across a variety of analytical and geospatial roles in the UK Civil Service at Natural England and the Department for Environment, Food and Rural Affairs (Defra), spanning spatial data management, GIS, species licensing, and agricultural statistics.</p>
+    <p>Before joining the Museum, I worked across a variety of analytical and geospatial roles in the <strong>UK Civil Service</strong> at <strong>Natural England</strong> and the <strong>Department for Environment, Food and Rural Affairs (Defra)</strong>, spanning spatial data management, GIS, species licensing, and agricultural statistics.</p>
 
-    <p>I have a background in biology, geography, and environmental science. I completed a BSc in Biology and Geography at the University of St Andrews and an MRes in Ecosystems and Environmental Change at Imperial College London. During my studies, I worked on projects exploring bumblebee populations across urban green spaces and investigating the effects of pesticide exposure and climate change on bumblebee foraging behaviour.</p>
+    <p>I have a background in biology, geography, and environmental science. I completed a BSc in Biology and Geography at the <strong>University of St Andrews</strong> and an MRes in Ecosystems and Environmental Change at <strong>Imperial College London</strong>. During my studies, I worked on projects exploring bumblebee populations across urban green spaces and investigating the effects of pesticide exposure and climate change on bumblebee foraging behaviour.</p>
   </div>
 </div>
