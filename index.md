@@ -44,7 +44,7 @@ title:
   <img
     src="assets/images/profile.jpg"
     alt="Charlotte's profile photo"
-    style="width: 380px; max-width: 100%; height: auto; border-radius: 12px;"
+    style="width: 340px; max-width: 100%; height: auto; border-radius: 12px;"
   />
 
   <div class="home-intro" style="flex: 1 1 500px; min-width: 280px;">
