@@ -24,3 +24,5 @@ end
 gem "http_parser.rb", "~> 0.6.0"
 
 gem "webrick", "~> 1.8"
+
+gem "minima", "~> 2.5"

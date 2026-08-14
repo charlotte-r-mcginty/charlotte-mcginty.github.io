@@ -11,18 +11,13 @@
   padding: 12px 0;
 }
 
-.site-footer .footer-heading,
-.site-footer .footer-col-wrapper,
-.site-footer .social-links,
-.site-footer .rss-subscribe {
-  display: none;
-}
-
-.site-footer::after {
-  content: "Charlotte McGinty  charlotte.mcginty@nhm.ac.uk";
-  display: block;
-  width: 100%;
+.site-footer .footer-right {
   font-size: 0.75rem;
   text-align: right;
   color: #828282;
+}
+
+.site-footer .footer-right a {
+  color: inherit;
+  text-decoration: none;
 }

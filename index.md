@@ -4,6 +4,7 @@ title: Home
 ---
 
 <style>
+  .page-heading,
   .post-title {
     display: none;
   }
@@ -42,9 +43,14 @@ title: Home
 
   <div class="home-intro">
     <h1>Charlotte McGinty</h1>
-    <p>I am the Geospatial Analyst in the <a href="https://biodiversity-futures-lab.github.io/" target="_blank">Biodiversity Futures Lab</a> at the Natural History Museum in London. My work focuses on developing and applying geospatial workflows to support global biodiversity research.</p>  
-    
-    <p>My work focuses on processing and analysing large-scale spatial datasets, working with land use and land cover data, and producing reproducible data products that help improve our understanding of biodiversity change in a human-dominated world.</p>
+
+    <div style="margin: 0.75rem 0 1.25rem;">
+      <a href="mailto:charlotte.mcginty@nhm.ac.uk" style="display:inline-block; padding: 8px 16px; margin: 6px 6px 0 0; background:#333; color:#fff; border-radius:20px; text-decoration:none; font-size:0.9rem;">✉️ Email</a>
+      <a href="https://github.com/charlotte-r-mcginty" style="display:inline-block; padding: 8px 16px; margin: 6px 6px 0 0; background:#333; color:#fff; border-radius:20px; text-decoration:none; font-size:0.9rem;">🐙 GitHub</a>
+      <a href="https://uk.linkedin.com/in/charlotte-mcginty-a10236185" style="display:inline-block; padding: 8px 16px; margin: 6px 6px 0 0; background:#333; color:#fff; border-radius:20px; text-decoration:none; font-size:0.9rem;">💼 LinkedIn</a>
+    </div>
+
+    <p>I am the Geospatial Analyst in the <a href="https://biodiversity-futures-lab.github.io/" target="_blank">Biodiversity Futures Lab</a> at the Natural History Museum in London. I develop and apply geospatial workflows to support global biodiversity research, working with large-scale spatial, land use, and land cover datasets to create reproducible data products that help us better understand biodiversity change in a human-dominated world.</p>
 
     <p>Before joining the Museum, I worked across a variety of analytical and geospatial roles in the UK Civil Service at Natural England and the Department for Environment, Food and Rural Affairs (Defra), spanning spatial data management, GIS, species licensing, and agricultural statistics.</p>
 
