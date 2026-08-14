@@ -1,42 +1,15 @@
 ---
 layout: home
-title:
+title: Home
 ---
 
 <style>
-  .wrapper {
-    max-width: 1200px;
+  .post-title {
+    display: none;
   }
 
   .home-intro p {
     margin-bottom: 1rem;
-  }
-
-  .site-footer .footer-col-wrapper {
-    display: flex;
-    justify-content: flex-end;
-    margin-left: 0;
-  }
-
-  .site-footer .footer-col {
-    width: auto;
-    margin-bottom: 0;
-    padding: 0;
-  }
-
-  .site-footer .footer-col-2,
-  .site-footer .footer-col-3,
-  .site-footer .social-links,
-  .site-footer .contact-list li:nth-child(2) {
-    display: none;
-  }
-
-  .site-footer .contact-list,
-  .site-footer .contact-list li,
-  .site-footer .contact-list a,
-  .site-footer .rss-subscribe {
-    font-size: 0.8rem;
-    text-align: right;
   }
 </style>
 
@@ -44,12 +17,14 @@ title:
   <img
     src="assets/images/profile.jpg"
     alt="Charlotte's profile photo"
-    style="width: 340px; max-width: 100%; height: auto; border-radius: 12px;"
+    style="width: 320px; max-width: 100%; height: auto; border-radius: 12px;"
   />
 
   <div class="home-intro" style="flex: 1 1 500px; min-width: 280px;">
-    <h1>Charlotte McGinty.</h1>
-    <p>I am the Geospatial Analyst in the <a href="https://biodiversity-futures-lab.github.io/" target="_blank">Biodiversity Futures Lab</a> at the Natural History Museum in London. My work focuses on developing and applying geospatial workflows to support global biodiversity research. This includes processing and analysing large-scale spatial datasets, working with land use and land cover data, and producing reproducible data products that help improve our understanding of biodiversity change in a human-dominated world.</p>
+    <h1>Charlotte McGinty</h1>
+    <p>I am the Geospatial Analyst in the <a href="https://biodiversity-futures-lab.github.io/" target="_blank">Biodiversity Futures Lab</a> at the Natural History Museum in London. My work focuses on developing and applying geospatial workflows to support global biodiversity research.</p>  
+    
+    <p>My work focuses on processing and analysing large-scale spatial datasets, working with land use and land cover data, and producing reproducible data products that help improve our understanding of biodiversity change in a human-dominated world.</p>
 
     <p>Before joining the Museum, I worked across a variety of analytical and geospatial roles in the UK Civil Service at Natural England and the Department for Environment, Food and Rural Affairs (Defra), spanning spatial data management, GIS, species licensing, and agricultural statistics.</p>
 
