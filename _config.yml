@@ -10,7 +10,6 @@ plugins:
 
 # Navigation links (top banner)
 header_pages:
-  - index.md
   - cv.md
 
 # Minima theme settings
