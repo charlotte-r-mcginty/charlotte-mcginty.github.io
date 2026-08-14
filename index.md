@@ -8,19 +8,39 @@ title: Home
     display: none;
   }
 
+  .home-layout {
+    display: grid;
+    grid-template-columns: 320px minmax(0, 1fr);
+    align-items: start;
+    gap: 2.5rem;
+    width: 100%;
+  }
+
+  .home-layout img {
+    width: 320px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+  }
+
   .home-intro p {
     margin-bottom: 1rem;
   }
+
+  @media (max-width: 800px) {
+    .home-layout {
+      grid-template-columns: 1fr;
+    }
+  }
 </style>
 
-<div style="display: flex; align-items: center; gap: 2.5rem; flex-wrap: wrap; width: 100%;">
+<div class="home-layout">
   <img
     src="assets/images/profile.jpg"
     alt="Charlotte's profile photo"
-    style="width: 320px; max-width: 100%; height: auto; border-radius: 12px;"
   />
 
-  <div class="home-intro" style="flex: 1 1 500px; min-width: 280px;">
+  <div class="home-intro">
     <h1>Charlotte McGinty</h1>
     <p>I am the Geospatial Analyst in the <a href="https://biodiversity-futures-lab.github.io/" target="_blank">Biodiversity Futures Lab</a> at the Natural History Museum in London. My work focuses on developing and applying geospatial workflows to support global biodiversity research.</p>  
     
@@ -30,10 +50,4 @@ title: Home
 
     <p>I have a background in biology, geography, and environmental science. I completed a BSc in Biology and Geography at the University of St Andrews and an MRes in Ecosystems and Environmental Change at Imperial College London. During my studies, I worked on projects exploring bumblebee populations across urban green spaces and investigating the effects of pesticide exposure and climate change on bumblebee foraging behaviour.</p>
   </div>
-</div>
-
-<div style="margin-top: 1.5rem;">
-  <a href="mailto:charlotte.mcginty@nhm.ac.uk" style="display:inline-block; padding: 8px 16px; margin: 6px 6px 0 0; background:#333; color:#fff; border-radius:20px; text-decoration:none; font-size:0.9rem;">✉️ Email</a>
-  <a href="https://github.com/charlotte-r-mcginty" style="display:inline-block; padding: 8px 16px; margin: 6px 6px 0 0; background:#333; color:#fff; border-radius:20px; text-decoration:none; font-size:0.9rem;">🐙 GitHub</a>
-  <a href="https://uk.linkedin.com/in/charlotte-mcginty-a10236185" style="display:inline-block; padding: 8px 16px; margin: 6px 6px 0 0; background:#333; color:#fff; border-radius:20px; text-decoration:none; font-size:0.9rem;">💼 LinkedIn</a>
 </div>

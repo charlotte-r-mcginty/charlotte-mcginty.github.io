@@ -7,40 +7,22 @@
   max-width: 1200px;
 }
 
-.site-footer .footer-col-wrapper {
-  display: flex;
-  justify-content: flex-end;
-  margin-left: 0;
+.site-footer {
+  padding: 12px 0;
 }
 
-.site-footer .footer-col {
-  width: auto;
-  margin-bottom: 0;
-  padding: 0;
-}
-
-.site-footer .footer-col-2,
-.site-footer .footer-col-3,
+.site-footer .footer-heading,
+.site-footer .footer-col-wrapper,
 .site-footer .social-links,
-.site-footer .rss-subscribe,
-.site-footer .contact-list li:nth-child(2) {
+.site-footer .rss-subscribe {
   display: none;
 }
 
-.site-footer .contact-list {
-  display: flex;
-  justify-content: flex-end;
-  gap: 0.4rem;
-  margin: 0;
-}
-
-.site-footer .contact-list li,
-.site-footer .contact-list a {
-  font-size: 0.8rem;
+.site-footer::after {
+  content: "Charlotte McGinty  charlotte.mcginty@nhm.ac.uk";
+  display: block;
+  width: 100%;
+  font-size: 0.75rem;
   text-align: right;
-}
-
-.site-footer .contact-list li:first-child::after {
-  content: ",";
-  margin-left: 0.15rem;
+  color: #828282;
 }
