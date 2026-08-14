@@ -11,6 +11,33 @@ title:
   .home-intro p {
     margin-bottom: 1rem;
   }
+
+  .site-footer .footer-col-wrapper {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 0;
+  }
+
+  .site-footer .footer-col {
+    width: auto;
+    margin-bottom: 0;
+    padding: 0;
+  }
+
+  .site-footer .footer-col-2,
+  .site-footer .footer-col-3,
+  .site-footer .social-links,
+  .site-footer .contact-list li:nth-child(2) {
+    display: none;
+  }
+
+  .site-footer .contact-list,
+  .site-footer .contact-list li,
+  .site-footer .contact-list a,
+  .site-footer .rss-subscribe {
+    font-size: 0.8rem;
+    text-align: right;
+  }
 </style>
 
 <div style="display: flex; align-items: center; gap: 2.5rem; flex-wrap: wrap; width: 100%;">
