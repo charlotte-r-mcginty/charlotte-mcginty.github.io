@@ -18,7 +18,7 @@ minima:
   skin: auto
   social_links:
     - { platform: github, user_url: "https://github.com/charlotte-r-mcginty" }
-    - { platform: linkedin, user_url: "https://linkedin.com/in/charlotte-mcginty" }
+    - { platform: linkedin, user_url: "https://uk.linkedin.com/in/charlotte-mcginty-a10236185" }
 
 # Build settings
 markdown: kramdown

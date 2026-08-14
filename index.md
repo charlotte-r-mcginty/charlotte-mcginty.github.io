@@ -13,7 +13,7 @@ title: Home
   <div style="flex: 1; min-width: 250px;">
     <h1>Charlotte McGinty.</h1>
     <p>
-      I am the Geospatial Analyst in the Biodiversity Futures Lab at the Natural History Museum in London. My work focuses on developing and applying geospatial workflows to support global biodiversity research. This includes processing and analysing large-scale spatial datasets, working with land use and land cover data, and producing reproducible data products that help improve our understanding of biodiversity change in a human-dominated world.i also looke
+      I am the Geospatial Analyst in the <a href="https://biodiversity-futures-lab.github.io/" target="_blank">Biodiversity Futures Lab</a> at the Natural History Museum in London. My work focuses on developing and applying geospatial workflows to support global biodiversity research. This includes processing and analysing large-scale spatial datasets, working with land use and land cover data, and producing reproducible data products that help improve our understanding of biodiversity change in a human-dominated world.
 
       Before joining the Museum, I worked across a variety of analytical and geospatial roles in the UK Civil Service at Natural England and the Department for Environment, Food and Rural Affairs (Defra), spanning spatial data management, GIS, species licensing, and agricultural statistics.
 
@@ -24,6 +24,6 @@ title: Home
 
 <div style="margin-top: 1.5rem;">
   <a href="mailto:charlotte.mcginty@nhm.ac.uk" style="display:inline-block; padding: 8px 16px; margin: 6px 6px 0 0; background:#333; color:#fff; border-radius:20px; text-decoration:none; font-size:0.9rem;">✉️ Email</a>
-  <a href="https://github.com/charlotte-r-mcginty" style="display:inline-block; padding: 8px 16px; margin: 6px 6px 0 0; background:#333; color:#fff; border-radius:20px; text-decoration:none; font-size:0.9rem;">GitHub</a>
-  <a href="https://linkedin.com/in/charlotte-mcginty" style="display:inline-block; padding: 8px 16px; margin: 6px 6px 0 0; background:#333; color:#fff; border-radius:20px; text-decoration:none; font-size:0.9rem;">🔗 LinkedIn</a>
+  <a href="https://github.com/charlotte-r-mcginty" style="display:inline-block; padding: 8px 16px; margin: 6px 6px 0 0; background:#333; color:#fff; border-radius:20px; text-decoration:none; font-size:0.9rem;">🐙 GitHub</a>
+  <a href="https://uk.linkedin.com/in/charlotte-mcginty-a10236185" style="display:inline-block; padding: 8px 16px; margin: 6px 6px 0 0; background:#333; color:#fff; border-radius:20px; text-decoration:none; font-size:0.9rem;">💼 LinkedIn</a>
 </div>
