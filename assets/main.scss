@@ -19,6 +19,18 @@ body {
   background-color: white;
 }
 
+.page-content {
+  background: transparent;
+}
+
+.post,
+.home,
+.post-content,
+
+article {
+  background: transparent;
+}
+
 .wrapper {
   max-width: 1200px;
 }
