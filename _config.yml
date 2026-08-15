@@ -1,6 +1,7 @@
 title: Charlotte McGinty
 email: charlotte.mcginty@nhm.ac.uk
 url: https://charlotte-mcginty.github.io
+baseurl: ""
 
 # Jekyll settings
 theme: minima
